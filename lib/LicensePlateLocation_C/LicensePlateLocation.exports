@@ -1,0 +1,11 @@
+LicensePlateLocationInitialize
+LicensePlateLocationInitializeWithHandlers
+LicensePlateLocationTerminate
+LicensePlateLocationPrintStackTrace
+mlxLicense_plate_location
+mlxPlate_location_kelnel
+mlxMinboundrect
+mlxRgb2hsi
+mlxRectify
+mlxDetection_color
+
